@@ -1,1 +1,5 @@
-# machine_learning_question
+# 機械学習帳　確認問題
+[機械学習帳](https://chokkan.github.io/mlnote/index.html)の確認問題を解いたものになります．
+答えがないので正解かどうかは分かりません...
+
+このような素晴らしい教材を無料公開してくださっている岡崎直観様には心より感謝申し上げます．
